@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585276123 source:c:\users\frapodeveloper\desktop\calculadora\main.c
+	<windows.h>
+	<string.h>
+
